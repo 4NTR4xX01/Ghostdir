@@ -49,6 +49,8 @@ export PATH=$PATH:$(go env GOPATH)/bin
 ## 🚀 Uso
 
 ```bash
+git clone https://github.com/4NTR4xX01/Ghostdir.git
+cd Ghostdir
 chmod +x Ghostdir.sh
 ./Ghostdir.sh ejemplo.com
 ```
